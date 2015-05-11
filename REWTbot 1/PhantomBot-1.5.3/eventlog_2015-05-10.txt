@@ -1,0 +1,158 @@
+05-10-2015 @ 17:40:22Z [addCommand.js#50] leahloveschief added the command !lfg with message: To find a team or help with raids, try the100.io or destinylfg.com! Alternatively try the REWTcrew Bungie clan!
+05-10-2015 @ 18:22:58Z [misc.js#335] Received a purge/timeout/ban notification on user claydawg077 from jtv
+05-10-2015 @ 18:38:09Z [misc.js#335] Received a purge/timeout/ban notification on user annjo_xiii from jtv
+05-10-2015 @ 18:40:18Z [addCommand.js#50] DirkWeezil added the command !mod with message: The first rule of mod clud, is don’t ask to be a mod. The second rule of mod club, is don’t ask to be a mod.  The third rule of mod club is be kind, helpful, and courteous in chat.  Be seen to be a good person, and you might get a sword.
+05-10-2015 @ 18:40:34Z [chatModerator.js#1154] Automatic link punishment triggered by somecallmestitch. Link: https://www.youtube.com/user/mrjackletonold      Message: no sorry dude, it's https://www.youtube.com/user/mrjackletonold nickname that stuck when I created the channel god knows how long ago haha
+05-10-2015 @ 18:40:34Z [chatModerator.js#124] >> Strike 1 >> Purged
+05-10-2015 @ 18:40:34Z [misc.js#335] Received a purge/timeout/ban notification on user somecallmestitch from jtv
+05-10-2015 @ 18:40:36Z [misc.js#335] Received a purge/timeout/ban notification on user somecallmestitch from jtv
+05-10-2015 @ 19:18:37Z [chatModerator.js#1154] Automatic link punishment triggered by mrchicken1119. Link: https://m.youtube.com/watch?v=pbvvlsefttg      Message: https://m.youtube.com/watch?v=pbvvL53fTTg
+05-10-2015 @ 19:18:37Z [chatModerator.js#124] >> Strike 1 >> Purged
+05-10-2015 @ 19:18:38Z [misc.js#335] Received a purge/timeout/ban notification on user mrchicken1119 from jtv
+05-10-2015 @ 19:18:39Z [misc.js#335] Received a purge/timeout/ban notification on user mrchicken1119 from jtv
+05-10-2015 @ 19:25:28Z [chatModerator.js#344] DirkWeezil permitted Aethermana
+05-10-2015 @ 19:25:33Z [chatModerator.js#344] Claybourne permitted Aethermana
+05-10-2015 @ 19:26:37Z [misc.js#335] Received a purge/timeout/ban notification on user domination5150 from jtv
+05-10-2015 @ 19:28:25Z [misc.js#335] Received a purge/timeout/ban notification on user spaceinvator6 from jtv
+05-10-2015 @ 19:31:22Z [chatModerator.js#1199] Automatic repeat punishment triggered by the_sith_ate_your_nipples. Longest repeat sequence: 19. Total repeat sequences: 19. Message: 《》《》《》《》《》《》《》《》《》《》《》《》《》《》《》《》《》《》《》
+05-10-2015 @ 19:31:22Z [misc.js#335] Received a purge/timeout/ban notification on user the_sith_ate_your_nipples from jtv
+05-10-2015 @ 19:31:24Z [misc.js#335] Received a purge/timeout/ban notification on user the_sith_ate_your_nipples from jtv
+05-10-2015 @ 19:31:50Z [chatModerator.js#1199] Automatic repeat punishment triggered by vexopclastftw. Longest repeat sequence: 9. Total repeat sequences: 26. Message: BoooooooootttttttAAAAAAAyyy
+05-10-2015 @ 19:31:51Z [misc.js#335] Received a purge/timeout/ban notification on user vexopclastftw from jtv
+05-10-2015 @ 19:31:52Z [misc.js#335] Received a purge/timeout/ban notification on user vexopclastftw from jtv
+05-10-2015 @ 19:32:22Z [chatModerator.js#1199] Automatic repeat punishment triggered by iceyprince. Longest repeat sequence: 12. Total repeat sequences: 19. Message: Do you want me to tell you a joke about the gjallerhorn?            You probably won't get it...
+05-10-2015 @ 19:32:23Z [misc.js#335] Received a purge/timeout/ban notification on user iceyprince from jtv
+05-10-2015 @ 19:32:25Z [misc.js#335] Received a purge/timeout/ban notification on user iceyprince from jtv
+05-10-2015 @ 19:37:35Z [chatModerator.js#1193] Automatic symbols punishment triggered by tryggr352. Longest symbol sequence: 16. Total symbols: 17. Message: @Leahloveschief ARE YOU PLAYING A HUNTER!!!!!!!!!!!!!!!!
+05-10-2015 @ 19:37:36Z [misc.js#335] Received a purge/timeout/ban notification on user tryggr352 from jtv
+05-10-2015 @ 19:37:37Z [misc.js#335] Received a purge/timeout/ban notification on user tryggr352 from jtv
+05-10-2015 @ 19:37:51Z [misc.js#335] Received a purge/timeout/ban notification on user ppaul_10 from jtv
+05-10-2015 @ 19:38:44Z [chatModerator.js#1199] Automatic repeat punishment triggered by alialoverforlife. Longest repeat sequence: 11. Total repeat sequences: 11. Message: Kreygasm Kreygasm Kreygasm Kreygasm Kreygasm Kreygasm Kreygasm Kreygasm Kreygasm Kreygasm Kreygasm Kreygasm
+05-10-2015 @ 19:38:45Z [misc.js#335] Received a purge/timeout/ban notification on user alialoverforlife from jtv
+05-10-2015 @ 19:38:47Z [misc.js#335] Received a purge/timeout/ban notification on user alialoverforlife from jtv
+05-10-2015 @ 19:47:05Z [chatModerator.js#1193] Automatic symbols punishment triggered by rusgato9. Longest symbol sequence: 14. Total symbols: 14. Message: mods diserve hype!!!!!!!!!!!!!!
+05-10-2015 @ 19:47:05Z [misc.js#335] Received a purge/timeout/ban notification on user rusgato9 from jtv
+05-10-2015 @ 19:47:07Z [misc.js#335] Received a purge/timeout/ban notification on user rusgato9 from jtv
+05-10-2015 @ 19:49:14Z [chatModerator.js#344] DirkWeezil permitted i_Crysis_ix
+05-10-2015 @ 19:50:23Z [chatModerator.js#225] DirkWeezil purged i_Crysis_ix
+05-10-2015 @ 19:50:24Z [misc.js#335] Received a purge/timeout/ban notification on user i_crysis_ix from jtv
+05-10-2015 @ 19:50:25Z [misc.js#335] Received a purge/timeout/ban notification on user i_crysis_ix from jtv
+05-10-2015 @ 19:53:45Z [misc.js#335] Received a purge/timeout/ban notification on user sy1ux from jtv
+05-10-2015 @ 19:56:32Z [chatModerator.js#1199] Automatic repeat punishment triggered by the_sith_ate_your_nipples. Longest repeat sequence: 21. Total repeat sequences: 21. Message: g2g2g2g2g2g2g2g2g2g2g2g2g2g2g2g2g2g2g2g2g2g bie
+05-10-2015 @ 19:56:33Z [misc.js#335] Received a purge/timeout/ban notification on user the_sith_ate_your_nipples from jtv
+05-10-2015 @ 19:56:34Z [misc.js#335] Received a purge/timeout/ban notification on user the_sith_ate_your_nipples from jtv
+05-10-2015 @ 20:01:11Z [chatModerator.js#1199] Automatic repeat punishment triggered by zam721. Longest repeat sequence: 8. Total repeat sequences: 16. Message: im done........ it took me 23 raids to get that helm....im done leah, i think we need a break brownCRY brownFAIL
+05-10-2015 @ 20:01:11Z [misc.js#335] Received a purge/timeout/ban notification on user zam721 from jtv
+05-10-2015 @ 20:01:13Z [misc.js#335] Received a purge/timeout/ban notification on user zam721 from jtv
+05-10-2015 @ 20:07:50Z [chatModerator.js#1199] Automatic repeat punishment triggered by dreygunzz. Longest repeat sequence: 12. Total repeat sequences: 12. Message: <------------
+05-10-2015 @ 20:07:50Z [misc.js#335] Received a purge/timeout/ban notification on user dreygunzz from jtv
+05-10-2015 @ 20:07:52Z [misc.js#335] Received a purge/timeout/ban notification on user dreygunzz from jtv
+05-10-2015 @ 20:10:34Z [misc.js#335] Received a purge/timeout/ban notification on user dreygunzz from jtv
+05-10-2015 @ 20:11:14Z [misc.js#335] Received a purge/timeout/ban notification on user treyisgaming from jtv
+05-10-2015 @ 20:37:18Z [misc.js#335] Received a purge/timeout/ban notification on user peeeepus from jtv
+05-10-2015 @ 20:38:27Z [misc.js#335] Received a purge/timeout/ban notification on user mpod124 from jtv
+05-10-2015 @ 20:38:32Z [misc.js#335] Received a purge/timeout/ban notification on user mpod124 from jtv
+05-10-2015 @ 20:38:34Z [misc.js#335] Received a purge/timeout/ban notification on user mpod124 from jtv
+05-10-2015 @ 20:38:56Z [chatModerator.js#1154] Automatic link punishment triggered by daffys_on_quack. Link: https://m.youtube.com/watch?v=vwzoczexuii      Message: https://m.youtube.com/watch?v=vwz0CzEXUII watch this leah
+05-10-2015 @ 20:38:56Z [chatModerator.js#124] >> Strike 1 >> Purged
+05-10-2015 @ 20:38:56Z [misc.js#335] Received a purge/timeout/ban notification on user daffys_on_quack from jtv
+05-10-2015 @ 20:38:58Z [misc.js#335] Received a purge/timeout/ban notification on user daffys_on_quack from jtv
+05-10-2015 @ 20:39:32Z [chatModerator.js#1154] Automatic link punishment triggered by daffys_on_quack. Link: https://m.youtube.com/watch?v=vwzoczexuii      Message: https://m.youtube.com/watch?v=vwz0CzEXUII
+05-10-2015 @ 20:39:32Z [chatModerator.js#148] >> Strike 2 >> Purged
+05-10-2015 @ 20:39:33Z [misc.js#335] Received a purge/timeout/ban notification on user daffys_on_quack from jtv
+05-10-2015 @ 20:39:35Z [misc.js#335] Received a purge/timeout/ban notification on user daffys_on_quack from jtv
+05-10-2015 @ 20:41:40Z [chatModerator.js#1199] Automatic repeat punishment triggered by afro_kidd. Longest repeat sequence: 9. Total repeat sequences: 19. Message: Leaaaahhhhhh, haiiiiiiiii
+05-10-2015 @ 20:41:41Z [misc.js#335] Received a purge/timeout/ban notification on user afro_kidd from jtv
+05-10-2015 @ 20:41:42Z [chatModerator.js#1199] Automatic repeat punishment triggered by daffys_on_quack. Longest repeat sequence: 21. Total repeat sequences: 43. Message: leeeeeeeeeeeeeeeeeeeeeaaaaaaaaaaaaaaahhh can u join my clan its MLG ILLUMINATI WEED TEAM
+05-10-2015 @ 20:41:42Z [misc.js#335] Received a purge/timeout/ban notification on user afro_kidd from jtv
+05-10-2015 @ 20:41:44Z [misc.js#335] Received a purge/timeout/ban notification on user daffys_on_quack from jtv
+05-10-2015 @ 20:41:45Z [misc.js#335] Received a purge/timeout/ban notification on user daffys_on_quack from jtv
+05-10-2015 @ 20:43:15Z [misc.js#335] Received a purge/timeout/ban notification on user dreygunzz from jtv
+05-10-2015 @ 20:43:36Z [misc.js#335] Received a purge/timeout/ban notification on user androwh from jtv
+05-10-2015 @ 20:43:57Z [misc.js#335] Received a purge/timeout/ban notification on user hi_im_tom1302 from jtv
+05-10-2015 @ 20:44:14Z [chatModerator.js#1199] Automatic repeat punishment triggered by puneshooter. Longest repeat sequence: 8. Total repeat sequences: 16. Message: 9 days til dlc drop mad hyyyyyyyyppppeeee
+05-10-2015 @ 20:44:15Z [misc.js#335] Received a purge/timeout/ban notification on user puneshooter from jtv
+05-10-2015 @ 20:44:16Z [misc.js#335] Received a purge/timeout/ban notification on user puneshooter from jtv
+05-10-2015 @ 20:44:25Z [misc.js#335] Received a purge/timeout/ban notification on user golden_boy2114 from jtv
+05-10-2015 @ 20:44:26Z [misc.js#335] Received a purge/timeout/ban notification on user golden_boy2114 from jtv
+05-10-2015 @ 20:48:30Z [chatModerator.js#1154] Automatic link punishment triggered by bzunka. Link: http://bit.ly/14ev84h      Message: http://bit.ly/14ev84H <- His face is priceless xD
+05-10-2015 @ 20:48:30Z [chatModerator.js#124] >> Strike 1 >> Purged
+05-10-2015 @ 20:48:32Z [misc.js#335] Received a purge/timeout/ban notification on user bzunka from jtv
+05-10-2015 @ 20:48:33Z [misc.js#335] Received a purge/timeout/ban notification on user bzunka from jtv
+05-10-2015 @ 20:58:17Z [misc.js#335] Received a purge/timeout/ban notification on user ch33xy from jtv
+05-10-2015 @ 21:41:44Z [misc.js#335] Received a purge/timeout/ban notification on user youtube_gamer_1 from jtv
+05-10-2015 @ 21:51:45Z [misc.js#335] Received a purge/timeout/ban notification on user eliteguch from jtv
+05-10-2015 @ 21:51:51Z [chatModerator.js#1154] Automatic link punishment triggered by enteboss. Link: www.youtube.com/seekerstube      Message: www.youtube.com/seekerstube
+05-10-2015 @ 21:51:51Z [chatModerator.js#124] >> Strike 1 >> Purged
+05-10-2015 @ 21:51:51Z [misc.js#335] Received a purge/timeout/ban notification on user enteboss from jtv
+05-10-2015 @ 21:51:53Z [misc.js#335] Received a purge/timeout/ban notification on user enteboss from jtv
+05-10-2015 @ 21:51:58Z [misc.js#335] Received a purge/timeout/ban notification on user bloodshotberp from jtv
+05-10-2015 @ 21:54:25Z [misc.js#335] Received a purge/timeout/ban notification on user keiramc2000 from jtv
+05-10-2015 @ 21:57:37Z [misc.js#335] Received a purge/timeout/ban notification on user simran111 from jtv
+05-10-2015 @ 21:57:51Z [misc.js#335] Received a purge/timeout/ban notification on user simran111 from jtv
+05-10-2015 @ 21:58:49Z [misc.js#335] Received a purge/timeout/ban notification on user oriivlz from jtv
+05-10-2015 @ 22:07:12Z [chatModerator.js#1193] Automatic symbols punishment triggered by dragonzinfern0. Longest symbol sequence: 6. Total symbols: 27. Message: alan...alan....alan...think his names steve......steve!....steve!.....
+05-10-2015 @ 22:07:12Z [misc.js#335] Received a purge/timeout/ban notification on user dragonzinfern0 from jtv
+05-10-2015 @ 22:07:14Z [misc.js#335] Received a purge/timeout/ban notification on user dragonzinfern0 from jtv
+05-10-2015 @ 22:10:33Z [misc.js#335] Received a purge/timeout/ban notification on user hoqxdesired from jtv
+05-10-2015 @ 22:10:57Z [misc.js#335] Received a purge/timeout/ban notification on user dvaequez from jtv
+05-10-2015 @ 22:14:14Z [misc.js#335] Received a purge/timeout/ban notification on user shaunc97 from jtv
+05-10-2015 @ 22:15:47Z [misc.js#335] Received a purge/timeout/ban notification on user jojo_playz_games from jtv
+05-10-2015 @ 22:17:43Z [misc.js#335] Received a purge/timeout/ban notification on user the_sunsinger from jtv
+05-10-2015 @ 22:18:11Z [chatModerator.js#1199] Automatic repeat punishment triggered by r3mixscopez. Longest repeat sequence: 9. Total repeat sequences: 18. Message: leaaaaaaaaahhhhhhhhh
+05-10-2015 @ 22:18:12Z [misc.js#335] Received a purge/timeout/ban notification on user r3mixscopez from jtv
+05-10-2015 @ 22:18:14Z [misc.js#335] Received a purge/timeout/ban notification on user r3mixscopez from jtv
+05-10-2015 @ 22:19:10Z [misc.js#335] Received a purge/timeout/ban notification on user butternips25 from jtv
+05-10-2015 @ 22:19:42Z [misc.js#335] Received a purge/timeout/ban notification on user txbandito from jtv
+05-10-2015 @ 22:21:08Z [misc.js#335] Received a purge/timeout/ban notification on user youtube_gamer_1 from jtv
+05-10-2015 @ 22:21:08Z [misc.js#335] Received a purge/timeout/ban notification on user youtube_gamer_1 from jtv
+05-10-2015 @ 22:21:28Z [misc.js#335] Received a purge/timeout/ban notification on user fanboywalkingdead from jtv
+05-10-2015 @ 22:21:33Z [misc.js#335] Received a purge/timeout/ban notification on user tibytitas from jtv
+05-10-2015 @ 22:22:31Z [misc.js#335] Received a purge/timeout/ban notification on user asquirrel73 from jtv
+05-10-2015 @ 22:26:35Z [misc.js#335] Received a purge/timeout/ban notification on user hoqxdesired from jtv
+05-10-2015 @ 22:27:02Z [chatModerator.js#1199] Automatic repeat punishment triggered by rangermc9210. Longest repeat sequence: 11. Total repeat sequences: 11. Message: 🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧
+05-10-2015 @ 22:27:03Z [misc.js#335] Received a purge/timeout/ban notification on user rangermc9210 from jtv
+05-10-2015 @ 22:27:04Z [misc.js#335] Received a purge/timeout/ban notification on user rangermc9210 from jtv
+05-10-2015 @ 22:28:11Z [misc.js#335] Received a purge/timeout/ban notification on user astriator from jtv
+05-10-2015 @ 22:49:05Z [misc.js#335] Received a purge/timeout/ban notification on user eliteguch from jtv
+05-10-2015 @ 22:49:24Z [misc.js#335] Received a purge/timeout/ban notification on user eliteguch from jtv
+05-10-2015 @ 22:49:37Z [misc.js#335] Received a purge/timeout/ban notification on user eliteguch from jtv
+05-10-2015 @ 22:49:49Z [misc.js#335] Received a purge/timeout/ban notification on user megadeth_joze from jtv
+05-10-2015 @ 22:51:45Z [chatModerator.js#1193] Automatic symbols punishment triggered by mattduffin122. Longest symbol sequence: 19. Total symbols: 19. Message: HI LEAH!!!!!!!!!!!!!!!!!!!
+05-10-2015 @ 22:51:45Z [misc.js#335] Received a purge/timeout/ban notification on user mattduffin122 from jtv
+05-10-2015 @ 22:51:47Z [misc.js#335] Received a purge/timeout/ban notification on user mattduffin122 from jtv
+05-10-2015 @ 22:53:39Z [chatModerator.js#1154] Automatic link punishment triggered by kiytq. Link: http://goo.gl/f8km2z      Message: http://goo.gl/f8Km2Z
+05-10-2015 @ 22:53:39Z [chatModerator.js#124] >> Strike 1 >> Purged
+05-10-2015 @ 22:53:40Z [misc.js#335] Received a purge/timeout/ban notification on user kiytq from jtv
+05-10-2015 @ 22:53:42Z [misc.js#335] Received a purge/timeout/ban notification on user kiytq from jtv
+05-10-2015 @ 22:54:55Z [misc.js#335] Received a purge/timeout/ban notification on user mattduffin122 from jtv
+05-10-2015 @ 23:01:29Z [misc.js#335] Received a purge/timeout/ban notification on user megadeth_joze from jtv
+05-10-2015 @ 23:05:45Z [chatModerator.js#344] aCasualCat permitted Zam721
+05-10-2015 @ 23:05:57Z [chatModerator.js#344] aCasualCat permitted Zam721
+05-10-2015 @ 23:17:44Z [misc.js#335] Received a purge/timeout/ban notification on user lukesweatygoalllsss from jtv
+05-10-2015 @ 23:19:27Z [init.js#565] Asenscient disabled module ./systems/timeSystem.js
+05-10-2015 @ 23:19:39Z [misc.js#335] Received a purge/timeout/ban notification on user wetify from jtv
+05-10-2015 @ 23:20:35Z [init.js#565] Asenscient disabled module ./commands/killCommand.js
+05-10-2015 @ 23:21:20Z [chatModerator.js#1163] Automatic caps punishment triggered by zam721. Message Length: 80    Caps Ratio: 0.5625    Message: NOOOO SOMEONE ATE MY LAST SLICE OF PIZZA!!!! brownCRY brownCRY brownCRY brownCRY
+05-10-2015 @ 23:21:21Z [misc.js#335] Received a purge/timeout/ban notification on user zam721 from jtv
+05-10-2015 @ 23:21:22Z [misc.js#335] Received a purge/timeout/ban notification on user zam721 from jtv
+05-10-2015 @ 23:27:32Z [misc.js#335] Received a purge/timeout/ban notification on user insanefitzy95 from jtv
+05-10-2015 @ 23:34:12Z [chatModerator.js#1199] Automatic repeat punishment triggered by mcw_king. Longest repeat sequence: 9. Total repeat sequences: 12. Message: Who do you love more me or chief  #flirtWho do you love more me or chief  #flirtWho do you love more me or chief  #flirt         Its me right
+05-10-2015 @ 23:34:12Z [misc.js#335] Received a purge/timeout/ban notification on user mcw_king from jtv
+05-10-2015 @ 23:34:14Z [misc.js#335] Received a purge/timeout/ban notification on user mcw_king from jtv
+05-10-2015 @ 23:34:50Z [misc.js#335] Received a purge/timeout/ban notification on user chrisr112233 from jtv
+05-10-2015 @ 23:34:59Z [misc.js#335] Received a purge/timeout/ban notification on user megadeth_joze from jtv
+05-10-2015 @ 23:45:25Z [chatModerator.js#1154] Automatic link punishment triggered by jasonus515. Link: https://argoplay.com/news/item2oes9/      Message: Mortal Kombat X has a new gay-character https://argoplay.com/news/item20359/
+05-10-2015 @ 23:45:25Z [chatModerator.js#124] >> Strike 1 >> Purged
+05-10-2015 @ 23:45:25Z [misc.js#335] Received a purge/timeout/ban notification on user jasonus515 from jtv
+05-10-2015 @ 23:45:27Z [misc.js#335] Received a purge/timeout/ban notification on user jasonus515 from jtv
+05-10-2015 @ 23:46:23Z [chatModerator.js#1154] Automatic link punishment triggered by xapplewhite7. Link: http://strawpoll.me/4330541      Message: http://strawpoll.me/4330541
+05-10-2015 @ 23:46:23Z [chatModerator.js#124] >> Strike 1 >> Purged
+05-10-2015 @ 23:46:23Z [misc.js#335] Received a purge/timeout/ban notification on user xapplewhite7 from jtv
+05-10-2015 @ 23:46:25Z [misc.js#335] Received a purge/timeout/ban notification on user xapplewhite7 from jtv
+05-10-2015 @ 23:48:23Z [permissions.js#200] Asenscient changed VizserkLive's group to Regular
+05-10-2015 @ 23:49:25Z [permissions.js#200] Asenscient changed Collects's group to Regular
+05-10-2015 @ 23:50:01Z [chatModerator.js#1193] Automatic symbols punishment triggered by 1029384756_1029384756. Longest symbol sequence: 11. Total symbols: 11. Message: turn down for ..........?
+05-10-2015 @ 23:50:01Z [misc.js#335] Received a purge/timeout/ban notification on user 1029384756_1029384756 from jtv
+05-10-2015 @ 23:50:03Z [misc.js#335] Received a purge/timeout/ban notification on user 1029384756_1029384756 from jtv
+05-10-2015 @ 23:51:37Z [misc.js#335] Received a purge/timeout/ban notification on user chriscontagious from jtv
